@@ -1,0 +1,22 @@
+{
+ "Hotels":{
+  "Hotel": "Uxbridge Hotel",
+   "Rooms":{
+    "Room1":{
+     "firstName": "_BLANK_",
+     "lastName": "_BLANK_",
+     "age": "_BLANK_",
+     "RoomType": [
+       {"type": "_BLANK_", "beds": "_BLANK_"}
+       ]
+    },
+    "Room2":{
+     "firstName": "_BLANK_",
+     "lastName": "_BLANK_",
+     "age": "_BLANK_",
+     "RoomType": [
+       {"type:": "_BLANK_", "beds": "_BLANK_"}
+      ]
+    }
+  }
+}}

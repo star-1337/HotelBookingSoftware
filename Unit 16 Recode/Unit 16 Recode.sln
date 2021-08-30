@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit 16 Recode", "Unit 16 Recode\Unit 16 Recode.csproj", "{7C416C00-5CA9-4B9B-A17E-F24E9A7CF03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C416C00-5CA9-4B9B-A17E-F24E9A7CF03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C416C00-5CA9-4B9B-A17E-F24E9A7CF03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C416C00-5CA9-4B9B-A17E-F24E9A7CF03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C416C00-5CA9-4B9B-A17E-F24E9A7CF03C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B06659C-C679-4340-9863-8D960A3F368F}
+	EndGlobalSection
+EndGlobal

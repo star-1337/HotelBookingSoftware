@@ -1,0 +1,13 @@
+F:\Unit 16 Recode\Unit 16 Recode\bin\Debug\netcoreapp3.1\Unit 16 Recode.exe
+F:\Unit 16 Recode\Unit 16 Recode\bin\Debug\netcoreapp3.1\Unit 16 Recode.deps.json
+F:\Unit 16 Recode\Unit 16 Recode\bin\Debug\netcoreapp3.1\Unit 16 Recode.runtimeconfig.json
+F:\Unit 16 Recode\Unit 16 Recode\bin\Debug\netcoreapp3.1\Unit 16 Recode.runtimeconfig.dev.json
+F:\Unit 16 Recode\Unit 16 Recode\bin\Debug\netcoreapp3.1\Unit 16 Recode.dll
+F:\Unit 16 Recode\Unit 16 Recode\bin\Debug\netcoreapp3.1\Unit 16 Recode.pdb
+F:\Unit 16 Recode\Unit 16 Recode\obj\Debug\netcoreapp3.1\Unit 16 Recode.csprojAssemblyReference.cache
+F:\Unit 16 Recode\Unit 16 Recode\obj\Debug\netcoreapp3.1\Unit 16 Recode.AssemblyInfoInputs.cache
+F:\Unit 16 Recode\Unit 16 Recode\obj\Debug\netcoreapp3.1\Unit 16 Recode.AssemblyInfo.cs
+F:\Unit 16 Recode\Unit 16 Recode\obj\Debug\netcoreapp3.1\Unit 16 Recode.csproj.CoreCompileInputs.cache
+F:\Unit 16 Recode\Unit 16 Recode\obj\Debug\netcoreapp3.1\Unit 16 Recode.dll
+F:\Unit 16 Recode\Unit 16 Recode\obj\Debug\netcoreapp3.1\Unit 16 Recode.pdb
+F:\Unit 16 Recode\Unit 16 Recode\obj\Debug\netcoreapp3.1\Unit 16 Recode.genruntimeconfig.cache
